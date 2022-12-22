@@ -16,7 +16,7 @@ int fatorial(int n){
 
 int main(){
 
-  int fatorialTeste= fatorial(10);
+  int fatorialTeste= fatorial(20);
   printf("%d" , fatorialTeste);
 // int n, i;
 // printf("Digita o numero carai: ");
